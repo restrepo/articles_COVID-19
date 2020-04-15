@@ -17,3 +17,6 @@ BMJ 2020; 369 doi: https://doi.org/10.1136/bmj.m1328 (Published 07 April 2020). 
 * Rowen RJ, Robins H (2020) A Plausible "Penny" Costing Effective Treatment for Corona Virus - Ozone Therapy. J Infect Dis Epidemiol 6:113. https://doi.org/10.23937/2474-3658/1510113
 * Jonathan Grein, M.D., Norio Ohmagari, et al., Compassionate Use of Remdesivir for Patients with Severe Covid-19,
 DOI: https://doi.org/10.1056/NEJMoa2007016
+* Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period
+Stephen M Kissler, Christine Tedijanto, Edward Goldstein, Yonatan H. Grad, Marc Lipsitch
+medRxiv 2020.03.04.20031112; doi: https://doi.org/10.1101/2020.03.04.20031112
