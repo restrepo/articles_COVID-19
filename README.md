@@ -20,3 +20,4 @@ DOI: https://doi.org/10.1056/NEJMoa2007016
 * Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period
 Stephen M Kissler, Christine Tedijanto, Edward Goldstein, Yonatan H. Grad, Marc Lipsitch
 medRxiv 2020.03.04.20031112; doi: https://doi.org/10.1101/2020.03.04.20031112
+   * https://www.meneame.net/story/explicando-famoso-paper-proyectando-dinamica-transmision-sars-2
