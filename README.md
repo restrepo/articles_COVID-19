@@ -21,3 +21,6 @@ DOI: https://doi.org/10.1056/NEJMoa2007016
 Stephen M Kissler, Christine Tedijanto, Edward Goldstein, Yonatan H. Grad, Marc Lipsitch
 medRxiv 2020.03.04.20031112; doi: https://doi.org/10.1101/2020.03.04.20031112
    * https://www.meneame.net/story/explicando-famoso-paper-proyectando-dinamica-transmision-sars-2
+* Coutard B, Valle C, de Lamballerie X, Canard B, Seidah NG, Decroly E. The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade. Antiviral Res. 2020;176:104742. doi:10.1016/j.antiviral.2020.104742
+   * [ccu cgg cgg gca
+Las doce letras que cambiaron el mundo](https://elpais.com/elpais/2020/05/09/ciencia/1589059080_203445.html)
