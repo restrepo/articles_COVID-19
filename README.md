@@ -29,3 +29,5 @@ Ania Wajnberg, Mayce Mansour, Emily Leven,  _et al_, medRxiv 2020.04.30.20085613
    * [El 99% de los infectados de coronavirus genera anticuerpos](https://elpais.com/ciencia/2020-05-14/el-99-de-infectados-de-coronavirus-genera-anticuerpos.html)
    * A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2, BY YAN WU, FEIRAN WANG, CHENGUANG SHEN, WEIYU PENG, _et al_, PUBLISHED ONLINE13 MAY 2020, DOI: https://doi.org/10.1126/science.abc2241
    * Potent human neutralizing antibodies elicited by SARS-CoV-2 infection, Bin Ju, Qi Zhang, Xiangyang Ge, Ruoke Wang, Jiazhen Yu, _et al_, bioRxiv 2020.03.21.990770; doi: https://doi.org/10.1101/2020.03.21.990770
+* Franck Grillet , Julien Behr, Paul Calame, Sébastien Aubry, Eric Delabrousse, Acute Pulmonary Embolism Associated with COVID-19 Pneumonia Detected by Pulmonary CT Angiography, https://doi.org/10.1148/radiol.2020201544
+   * [COVID-19, una enfermedad más compleja de lo que pensamos](https://www.elespectador.com/coronavirus/covid-19-una-enfermedad-mas-compleja-de-lo-que-pensamos-articulo-920005)
