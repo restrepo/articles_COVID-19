@@ -33,3 +33,7 @@ Ania Wajnberg, Mayce Mansour, Emily Leven,  _et al_, medRxiv 2020.04.30.20085613
    * [COVID-19, una enfermedad más compleja de lo que pensamos](https://www.elespectador.com/coronavirus/covid-19-una-enfermedad-mas-compleja-de-lo-que-pensamos-articulo-920005)
 * Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial, Feng-Cai Zhu, Yu-Hua Li, Xu-Hua Guan, _et al_, Published:May 22, 2020DOI:https://doi.org/10.1016/S0140-6736(20)31208-3
    * [Los resultados iniciales de la vacuna china contra el coronavirus indican que es segura y genera anticuerpos](https://elpais.com/ciencia/2020-05-22/los-resultados-iniciales-de-la-vacuna-china-indican-que-es-segura-y-genera-anticuerpos.html)
+* Zhou, P., Yang, X., Wang, X. et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 579, 270–273 (2020). https://doi.org/10.1038/s41586-020-2012-7
+   * [PUBLIC HEALTH
+How China’s ‘Bat Woman’ Hunted Down Viruses from SARS to the New Coronavirus](https://www.scientificamerican.com/article/how-chinas-bat-woman-hunted-down-viruses-from-sars-to-the-new-coronavirus1/)
+   > “Bat-borne coronaviruses will cause more outbreaks,” Shi says with a tone of brooding certainty. “We must find them before they find us.”    
